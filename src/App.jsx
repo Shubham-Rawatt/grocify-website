@@ -1,14 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from "react"
+import Home from "./components/Home/home"
+
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-    <h2 className='text-3xl animate-bounce delay-700 ease-in-out text-center text-slate-800'>grocery store</h2>
+      <Home/>
     </>
   )
 }
