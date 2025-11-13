@@ -9,7 +9,7 @@ const Footer = () => {
             <div className='flex-1 basis-[300px]'>
                 <a href="#"  className='text-3xl font-semibold'> Gr<span className='text-orange-500 uppercase'>0</span>cify </a>
                 <p className='text-zinc-600 mt-6 max-w-[350px]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam sapiente maiores delectus veritatis architecto beatae nulla est quidem? Sunt eum dolor inventore, recusandae voluptatibus minus est neque laboriosam error esse</p>
-                <p className='text-zinc-800 mt-6'>2025 &copy; all rights reserved</p>
+                <p className='text-zinc-800 mt-6 font-semibold'>2025 &copy; All Rights Reserved</p>
             </div>
 
         <ul className='flex-1'>
